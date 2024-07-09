@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate from Zhejiang University(https://www.zju.edu.cn/)). My research interest includes robot science, multi-agent system and reinforcement learning.
+I'm a PhD candidate from [Zhejiang University](https://www.zju.edu.cn/)). My research interest includes robot science, multi-agent system and reinforcement learning.
 
-[Email](shizifeng@zju.edu.cn) / [Github](https://github.com/ShiZifeng) 
+Email:shizifeng@zju.edu.cn / [Github](https://github.com/ShiZifeng) 
