@@ -21,7 +21,7 @@ repository               : "shizifeng/shizifeng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.jpg"
+  avatar           : "me.png"
   name             : "Shi Zifeng"
   pronouns         : "he/him"  
   bio              : "Good Good Study, Day Day Up"
